@@ -24,7 +24,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   <Extension Id="com.Update-extension.cep.main">
     <DispatchInfo>
       <Resources>
-        <MainPath>https://vonnnassau.github.io/update-extension/main/index.html</MainPath>
+        <MainPath>https://vonnnassau.github.io/update-extension/main/index.html?v=1</MainPath>
         <CEFCommandLine>
           <Parameter>--v=0</Parameter>
           <Parameter>--enable-nodejs</Parameter>
